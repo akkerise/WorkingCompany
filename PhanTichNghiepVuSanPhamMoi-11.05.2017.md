@@ -22,7 +22,7 @@
             * Đơn hàng chưa thanh toán.
             * Phiếu thu cho đơn hàng ở trạng thái chưa thu.
             
-        2 => 4. (Giống nạp tiền)
+            #####```Phần còn lại nghiệp vụ giống phần Nạp Tiền```
         
      * Rút : Rút về tài khoản NH của khách :
         1. Khách hàng tạo yêu cầu rút tiền (cashout Request)
